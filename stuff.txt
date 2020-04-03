@@ -3,3 +3,6 @@ Here is a text file
 Here is more text
 
 My own line
+
+Another line
+
