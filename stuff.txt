@@ -1,9 +1,9 @@
 Here is a text file
 
-Here is more text
+Here is more text, and mine
 
 My own line
 
-Another line, and more
+Another line, and more, and mine
 
 Here is some more
