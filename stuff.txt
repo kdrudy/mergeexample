@@ -2,8 +2,8 @@ Here is a text file
 
 Here is more text, and mine
 
-My own line
+My own line 
 
-Another line, and more, and mine
+Another line, and more, and more
 
 Here is some more
